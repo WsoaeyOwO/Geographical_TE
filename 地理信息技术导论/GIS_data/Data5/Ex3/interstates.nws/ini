@@ -1,0 +1,43 @@
+Description: "ArcView Network "
+Layer
+{
+  Name: "Junction_Layer"
+  Source: "interstates.shp"
+  KeySource: "FJUNCTION TJUNCTION"
+  LayerID: 0
+  LayerKey: 0
+  Status: 0
+}
+{
+  Name: "Edge_Layer"
+  Source: "interstates.shp"
+  KeySource: "None"
+  LayerID: 1
+  LayerKey: 1
+  Status: 0
+}
+{
+  Name: "Back_Edge_Layer"
+  Source: "interstates.shp"
+  KeySource: "None"
+  LayerID: -1
+  LayerKey: 2
+  Status: 0
+}
+Weight
+{
+  Name: "<Line Length>"
+  Source: "interstates.shp"
+  Description: "None"
+  WeightID: 1
+  WeightKey: 0
+  Status: 0
+}
+{
+  Name: "Minutes"
+  Source: "interstates.shp"
+  Description: "None"
+  WeightID: 2
+  WeightKey: 1
+  Status: 0
+}

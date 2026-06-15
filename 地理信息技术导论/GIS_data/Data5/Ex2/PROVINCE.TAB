@@ -1,0 +1,27 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 20
+    GB_Code Char (10) Index 1 ;
+    Character_Name Char (46) Index 2 ;
+    Pinyin_Name Char (65) Index 3 ;
+    English_Name Char (85) Index 4 ;
+    Capital_Code Char (10) ;
+    Capital_Character_Name Char (46) ;
+    Capital_Pinyin_Name Char (65) ;
+    Capital_English_Name Char (85) ;
+    Total_pop_1982 Integer ;
+    Total_pop_1990 Integer ;
+    Total_pop_proj Integer ;
+    Total_fem_1982 Integer ;
+    Total_fem_1990 Integer ;
+    Total_fem_proj_1995 Integer ;
+    Total_male_1982 Integer ;
+    Total_male_1990 Integer ;
+    Total_male_proj_1995 Integer ;
+    Pop_less_15 Integer ;
+    Pop_15_to_64 Integer ;
+    Pop_over_65 Integer ;

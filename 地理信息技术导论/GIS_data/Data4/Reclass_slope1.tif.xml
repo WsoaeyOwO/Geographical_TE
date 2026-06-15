@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20260424</CreaDate><CreaTime>14465900</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\program files (x86)\arcgis desktop 10.8.2\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\Reclassify" Date="20260424" Time="144659">Reclassify slope.tif Value "0 10 1;10 20 2;20 30 3;30 40 4;40 53 5" C:\Users\Wsoaey\Desktop\GIS导论课程材料\GIS_data\Data4\Reclass_slope1.tif DATA</Process></lineage></DataProperties></Esri></metadata>

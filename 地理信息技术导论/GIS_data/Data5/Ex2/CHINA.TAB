@@ -1,0 +1,28 @@
+!table
+!version 300
+!charset WindowsSimpChinese
+
+Definition Table
+  Type NATIVE Charset "WindowsSimpChinese"
+  Fields 13
+    Total_pop_proj Integer Index 1 ;
+    Pinyin_name Char (14) ;
+    Guobiao_Admin_Code Char (6) ;
+    Chinese_Char_Name Char (25) ;
+    年底总人口 Integer ;
+    出生率 Float ;
+    自然增长率 Float ;
+    合计小计 Integer ;
+    合计男 Integer ;
+    合计女 Integer ;
+    人口数合计 Integer ;
+    Total_pop_1982 Integer ;
+    Total_pop_1990 Integer Index 2 ;
+ReadOnly
+begin_metadata
+"\ActiveObject" = ""
+"\ActiveObject\Expr" = "URL"
+"\ActiveObject\Mode" = "HOTLINK_MODE_BOTH"
+"\ActiveObject\Relative" = "FALSE"
+"\IsReadOnly" = "FALSE"
+end_metadata

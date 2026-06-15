@@ -1,0 +1,67 @@
+Description: "ArcView Network "
+Layer
+{
+  Name: "Junction_Layer"
+  Source: "moscowst"
+  KeySource: "Fnode# Tnode#"
+  LayerID: 0
+  LayerKey: 0
+  Status: 0
+}
+{
+  Name: "Edge_Layer"
+  Source: "moscowst"
+  KeySource: "Moscowst#"
+  LayerID: 1
+  LayerKey: 1
+  Status: 0
+}
+{
+  Name: "Back_Edge_Layer"
+  Source: "moscowst"
+  KeySource: "Moscowst#"
+  LayerID: -1
+  LayerKey: 2
+  Status: 0
+}
+{
+  Name: "Turn_Layer"
+  Source: "moscowst.trn"
+  KeySource: "Node# Arc1#"
+  LayerID: 9999
+  LayerKey: 3
+  Status: 0
+}
+Weight
+{
+  Name: "<Line Length>"
+  Source: "moscowst"
+  Description: "None"
+  WeightID: 1
+  WeightKey: 0
+  Status: 0
+}
+{
+  Name: "! <Line Length>"
+  Source: "moscowst"
+  Description: "None"
+  WeightID: -1
+  WeightKey: 1
+  Status: 0
+}
+{
+  Name: "Minutes"
+  Source: "moscowst"
+  Description: "None"
+  WeightID: 3
+  WeightKey: 2
+  Status: 0
+}
+{
+  Name: "! Minutes"
+  Source: "moscowst"
+  Description: "None"
+  WeightID: -3
+  WeightKey: 3
+  Status: 0
+}

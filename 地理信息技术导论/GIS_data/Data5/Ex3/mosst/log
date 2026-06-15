@@ -1,0 +1,37 @@
+199810161402   2     5     0chang project cover mstiger mstigtm
+199810161432   0     3     0chang export cover mstigtm moscowst
+199907011042   0     1     0chang copy mstigtm mstigtm2
+199907011147   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSTIGTM2
+199907011147   0     3     0chang restorearcedit mstigtm2
+199907011455   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSTIGTM2
+199907011455   0     1     0chang build mstigtm2 line
+199907011456   0     5     0chang clean mstigtm2
+199907011512   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSTIGTM2
+199907011513   0     1     0chang build mstigtm2 line
+199907011513   0     4     0chang build mstigtm2
+199907011528   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSTIGTM2
+19990702 843   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSTIGTM2
+19990702 844   0     0     0chang build mstigtm2 line
+19990702 844   0     4     0chang build mstigtm2
+19990702 845   0     3     0chang export cover mstigtm2 mstigtm2
+199907061444   0     2     0chang copy mstigtm2 msnewrd
+199907061447   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSNEWRD
+199907061447   0     1     0chang build msnewrd line
+199907061447   0     4     0chang build msnewrd
+199907071304   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSNEWRD
+19990708 808   0     0     0chang dropfeatures msnewrd route.bus
+19990708 839   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSNEWRD
+199907141016   0     0     0chang ARCEDIT /HOME/FACULTY/CHANG/TRANSPORT/MSNEWRD
+199907141016   0     1     0chang build msnewrd line
+199907141016   0     4     0chang build msnewrd
+199907141019   0     1     0chang turntable msnewrd 3 # nouturns
+199907141021   0     0     0chang idedit msnewrd
+199907141023   0     1     0chang turntable msnewrd 5 # nouturns
+199907141032   0     1     0chang idedit msnewrd line
+199907141033   0     1     0chang turntable msnewrd 5 # nouturns
+199907151436   1     4     0chang export cover msnewrd msnewrd
+199908171314   0     4     0chang export cover msnewrd moscowst
+20000412 912   0     3     0chang copy msnewrd msnewrd_2
+20000412 912   0     0     0chang dropfeatures msnewrd_2 poly
+20000412 915   0     0     0chang rename msnewrd_2 moscowst
+20000412 915   0     5     0chang export cover moscowst moscowst
